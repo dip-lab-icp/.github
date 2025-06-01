@@ -2,18 +2,15 @@
 
 Welcome to the official GitHub organization of the **Digital Image Processing Laboratory (DIP Lab)** at [Islamia College Peshawar](https://icp.edu.pk/).
 
-We focus on cutting-edge research and development in **Computer Vision**, **Image Processing**, and **Artificial Intelligence**, with a strong emphasis on real-world applications in **resource-constrained environments**, such as embedded AI, medical diagnostics, and surveillance.
+DIP Lab is a state-of-the-art research lab where both undergraduate and graduate students are working on different cutting-edge research areas of **Artificial Intelligence**, specifically in **computer vision** areas such as **autonomous navigation**, **surveillance systems**, **smart homes**, **medical imaging**, etc. Since its inception, the lab has produced prominent researchers in AI. The lab has a strong alumni network throughout the world working in both academia and industry.
 
 ---
 
-## 🧪 Research Focus Areas
-
-- 🔍 Computer Vision
-- 🧠 Deep Learning
-- 🚗 Autonomous Navigation
-- 🧬 Medical Image Analysis
-- 🧾 Vision-Language Models
-
+## 🔬 Technical Expertise
+- 🧠 Deep Learning Architectures (CNNs, Transformers, GANs, LLMs, VLMs)
+- 🔍 Computer Vision Algorithms
+- 🧾 Multimodal AI (Vision + Language)
+- 🏥 Medical AI Applications
 ---
 
 ## 👨‍🔬 Meet the Team
