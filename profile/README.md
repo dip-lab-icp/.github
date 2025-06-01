@@ -26,7 +26,3 @@ We welcome **academic and industry partnerships**, and are always open to new id
 
 - 🧠 Follow us on [Hugging Face](https://huggingface.co/dip-lab-icp)
 - 🐙 Stay updated through our GitHub repositories
-
----
-
-Thank you for visiting the DIP Lab GitHub — Let’s push the boundaries of intelligent vision together!
